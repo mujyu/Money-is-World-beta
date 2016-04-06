@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":false,"name":"デバッグ用マップ","order":1,"parentId":0,"scrollX":1638,"scrollY":913},
 {"id":2,"expanded":false,"name":"テスト街マップ","order":2,"parentId":1,"scrollX":4272,"scrollY":988.8},
-{"id":3,"expanded":true,"name":"街","order":3,"parentId":0,"scrollX":5334,"scrollY":4558},
+{"id":3,"expanded":true,"name":"街","order":3,"parentId":0,"scrollX":4822,"scrollY":4370},
 {"id":4,"expanded":false,"name":"キャラ選択","order":4,"parentId":0,"scrollX":982.8,"scrollY":547.8},
 {"id":5,"expanded":false,"name":"ゲーム概要説明マップ","order":5,"parentId":0,"scrollX":1634,"scrollY":922},
 {"id":6,"expanded":false,"name":"エンディング用街","order":6,"parentId":0,"scrollX":4992,"scrollY":5751.599999999999}
